@@ -1,0 +1,207 @@
+{
+  "asyncPranav/Food-website": {
+    "commitTotal": 5,
+    "additions": 1810,
+    "deletions": 15
+  },
+  "asyncPranav/Restaurant-website": {
+    "commitTotal": 8,
+    "additions": 876,
+    "deletions": 10
+  },
+  "asyncPranav/Alexa": {
+    "commitTotal": 135,
+    "additions": 1,
+    "deletions": 1
+  },
+  "asyncPranav/Portfolio": {
+    "commitTotal": 3,
+    "additions": 1683,
+    "deletions": 1
+  },
+  "asyncPranav/skills-introduction-to-github": {
+    "commitTotal": 2,
+    "additions": 649,
+    "deletions": 0
+  },
+  "asyncPranav/Learning-C": {
+    "commitTotal": 77,
+    "additions": 9379,
+    "deletions": 531
+  },
+  "asyncPranav/Learning-Java": {
+    "commitTotal": 82,
+    "additions": 13180,
+    "deletions": 472
+  },
+  "asyncPranav/asyncPranav": {
+    "commitTotal": 23,
+    "additions": 370,
+    "deletions": 218
+  },
+  "asyncPranav/Obsidian": {
+    "commitTotal": 1767,
+    "additions": 191816,
+    "deletions": 20819
+  },
+  "asyncPranav/DSA-Java": {
+    "commitTotal": 94,
+    "additions": 4788,
+    "deletions": 56
+  },
+  "asyncPranav/Learning-WebDev": {
+    "commitTotal": 181,
+    "additions": 321616,
+    "deletions": 4884
+  },
+  "asyncPranav/eyeGuard": {
+    "commitTotal": 2,
+    "additions": 518,
+    "deletions": 20
+  },
+  "asyncPranav/async-todo": {
+    "commitTotal": 1,
+    "additions": 526,
+    "deletions": 0
+  },
+  "asyncPranav/async-quotes": {
+    "commitTotal": 3,
+    "additions": 885,
+    "deletions": 136
+  },
+  "asyncPranav/ghlookup": {
+    "commitTotal": 9,
+    "additions": 655,
+    "deletions": 58
+  },
+  "asyncPranav/nam-jap": {
+    "commitTotal": 27,
+    "additions": 1705,
+    "deletions": 391
+  },
+  "asyncPranav/DBT-Portal": {
+    "commitTotal": 39,
+    "additions": 4853,
+    "deletions": 1302
+  },
+  "asyncPranav/Learn-git": {
+    "commitTotal": 9,
+    "additions": 15,
+    "deletions": 3
+  },
+  "asyncPranav/mobile-info-bot": {
+    "commitTotal": 7,
+    "additions": 2754,
+    "deletions": 58
+  },
+  "asyncPranav/aadhar-family-info-bot": {
+    "commitTotal": 2,
+    "additions": 3226,
+    "deletions": 8
+  },
+  "asyncPranav/sms-bomber-bot": {
+    "commitTotal": 5,
+    "additions": 1416,
+    "deletions": 523
+  },
+  "asyncPranav/mobile-info-app": {
+    "commitTotal": 4,
+    "additions": 7320,
+    "deletions": 116
+  },
+  "asyncPranav/mobile-info-web": {
+    "commitTotal": 6,
+    "additions": 1818,
+    "deletions": 105
+  },
+  "asyncPranav/osint-info-tool": {
+    "commitTotal": 10,
+    "additions": 1796,
+    "deletions": 22
+  },
+  "asyncPranav/osint-info-bot": {
+    "commitTotal": 3,
+    "additions": 543,
+    "deletions": 5
+  },
+  "asyncPranav/muit-info": {
+    "commitTotal": 23,
+    "additions": 629862,
+    "deletions": 113019
+  },
+  "asyncPranav/secret-muit-info": {
+    "commitTotal": 2,
+    "additions": 16754,
+    "deletions": 16
+  },
+  "asyncPranav/paytm-user-info": {
+    "commitTotal": 2,
+    "additions": 310856,
+    "deletions": 7
+  },
+  "asyncPranav/pyq-muit": {
+    "commitTotal": 21,
+    "additions": 13824,
+    "deletions": 855
+  },
+  "asyncPranav/muit-pyq-vercel": {
+    "commitTotal": 35,
+    "additions": 15718,
+    "deletions": 2000
+  },
+  "asyncPranav/window-snapper": {
+    "commitTotal": 2,
+    "additions": 307,
+    "deletions": 0
+  },
+  "asyncPranav/Nvim-dotfile": {
+    "commitTotal": 5,
+    "additions": 293,
+    "deletions": 37
+  },
+  "asyncPranav/acode-plus-plus": {
+    "commitTotal": 4,
+    "additions": 141192,
+    "deletions": 106
+  },
+  "asyncPranav/better-comments": {
+    "commitTotal": 3,
+    "additions": 1383,
+    "deletions": 19
+  },
+  "asyncPranav/acode-pets": {
+    "commitTotal": 3,
+    "additions": 1975,
+    "deletions": 0
+  },
+  "asyncPranav/coursevs": {
+    "commitTotal": 2,
+    "additions": 3598,
+    "deletions": 42
+  },
+  "asyncPranav/leafnote": {
+    "commitTotal": 3,
+    "additions": 2030,
+    "deletions": 3
+  },
+  "asyncPranav/stashlink": {
+    "commitTotal": 1,
+    "additions": 2468,
+    "deletions": 0
+  },
+  "asyncPranav/checkmygit": {
+    "commitTotal": 114,
+    "additions": 3,
+    "deletions": 2
+  },
+  "asyncPranav/asyncpranav-card": {
+    "commitTotal": 4,
+    "additions": 830,
+    "deletions": 0
+  },
+  "asyncPranav/profile-card": {
+    "commitTotal": 1,
+    "additions": 832,
+    "deletions": 0
+  }
+}
