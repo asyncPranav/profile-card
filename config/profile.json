@@ -1,0 +1,23 @@
+{
+  "system": {
+    "os": "Windows 11",
+    "editor": "Neovim, VSCode",
+    "shell": "Zsh"
+  },
+  "languages": {
+    "backend": "Node.js, Express.js",
+    "frontend": "React, Tailwind CSS",
+    "database": "MongoDB",
+    "tools": "Git, Neovim, Postman"
+  },
+  "contact": {
+    "email": "asyncpranav@gmail.com",
+    "github": "github.com/asyncPranav",
+    "linkedin": "linkedin.com/in/asyncpranav"
+  },
+  "projects": [
+    { "name": "Leafnote", "description": "Notes app - Express/MongoDB" },
+    { "name": "StashLink", "description": "Bookmark manager - Express/MongoDB" },
+    { "name": "CheckMyGit", "description": "Github profile viewing - OS contribution" }
+  ]
+}

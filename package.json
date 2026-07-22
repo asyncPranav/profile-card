@@ -1,0 +1,13 @@
+{
+  "name": "profile-card",
+  "version": "1.0.0",
+  "description": "Self-updating terminal-style GitHub profile stats card",
+  "main": "scripts/generate-card.js",
+  "scripts": {
+    "generate": "node scripts/generate-card.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
