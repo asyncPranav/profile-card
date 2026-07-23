@@ -195,12 +195,12 @@
     "deletions": 2
   },
   "asyncPranav/asyncpranav-card": {
-    "commitTotal": 4,
-    "additions": 830,
+    "commitTotal": 2,
+    "additions": 879,
     "deletions": 0
   },
   "asyncPranav/profile-card": {
-    "commitTotal": 7,
+    "commitTotal": 8,
     "additions": 836,
     "deletions": 4
   }
